@@ -28,7 +28,7 @@ A minimalist RESTful API built with Node.js and Express.js to help users manage 
     ```bash
     node app.js
 
-    The API will be running at http://localhost:3000 by default.
+The API will be running at http://localhost:3000 by default.
 
 ## 📍 API Endpoints
 
