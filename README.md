@@ -43,10 +43,9 @@ The API will be running at http://localhost:3000 by default.
 
 ## Example Request Body (POST /add)
     ```JSON
-    {
-  "description": "Coffee",
-  "amount": -80,
-  "category": "Food & Drink"
+    {"description": "Coffee",
+    "amount": -80,
+    category": "Food & Drink"
     }   
 
 📝 Roadmap
