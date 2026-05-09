@@ -1,0 +1,17 @@
+{
+  "name": "wallet-api",
+  "version": "1.0.0",
+  "description": "A minimalist RESTful API for personal expense and income tracking built with Node.js and Express.",
+  "main": "app.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": ["api", "expense-tracker", "nodejs", "express"],
+  "author": "Oykunaz Ergelen",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
